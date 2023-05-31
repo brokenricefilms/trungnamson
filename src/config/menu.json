@@ -1,0 +1,38 @@
+{
+  "main": [
+    {
+      "name": "Giới Thiệu",
+      "url": "/about"
+    },
+    {
+      "name": "Dự án",
+      "url": "/categories/project"
+    },
+    {
+      "name": "Tuyển dụng",
+      "url": "/categories/job"
+    },
+    {
+      "name": "Tin Tức",
+      "url": "/blog"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Giới Thiệu",
+      "url": "/about"
+    },
+    {
+      "name": "Dự án",
+      "url": "/categories/project"
+    },
+    {
+      "name": "Tuyển dụng",
+      "url": "/categories/job"
+    },
+    {
+      "name": "Tin tức",
+      "url": "/blog"
+    }
+  ]
+}

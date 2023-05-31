@@ -1,0 +1,42 @@
+---
+import Logo from "@/components/Logo.astro";
+import menu from "@/config/menu.json";
+
+const { footer }: { footer: { name: string; url: string }[] } = menu;
+---
+
+<footer class="bg-theme-light dark:bg-darkmode-theme-light">
+  <div class="container">
+    <div class="row items-center py-10">
+      <div class="mb-8 text-center lg:col-3 lg:mb-0 lg:text-left">
+        <Logo />
+      </div>
+      <div class="mb-8 text-center lg:col-6 lg:mb-0">
+        <ul>
+          {
+            footer.map((menu) => (
+              <li class="m-3 inline-block">
+                <a href={menu.url}>{menu.name}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-t border-border py-7 dark:border-darkmode-border">
+    <div class="container text-center">
+      <p>CÔNG TY TNHH XÂY DỰNG TRUNG NAM SƠN</p>
+      <p>Địa chỉ: 756A Âu Cơ, Phường 14, Quận Tân Bình, TP. Hồ Chí Minh</p>
+      <p>
+        Email: <a href="mailto:xdtns2011@gmail.com">xdtns2011@gmail.com</a> hoặc
+        <a href="mailto:sontran0304@yahoo.com.vn">sontran0304@yahoo.com.vn</a>
+      </p>
+      <p>Website: <a href="trungnamson.com.vn">trungnamson.com.vn</a></p>
+      <p>Điện thoại: <a href="tel:02862728119">028 6272 8119</a></p>
+      <p class="text-red-600 text-xl">
+        Hotline: <a href="tel:0903624254">0903 624 254</a>
+      </p>
+    </div>
+  </div>
+</footer>

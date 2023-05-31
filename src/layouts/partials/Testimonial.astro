@@ -1,0 +1,49 @@
+---
+import { Picture } from "@astrojs/image/components";
+import takco from "public/images/takco.png";
+import vietHuong from "public/images/viet-huong.png";
+import phuocThanh from "public/images/phuoc-thanh.png";
+import cp from "public/images/cp.webp";
+---
+
+<div class="mt-24 mb-24">
+  <h2 class="text-center">Được sự tin tưởng của các đối tác</h2>
+  <div class="flex gap-8 md:gap-20 items-center justify-center mt-10 flex-wrap">
+    <Picture
+      class="h-8 md:h-12"
+      src={takco}
+      alt="takco"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 800px) 100vw, 620px"
+      loading="eager"
+      format="avif"
+    />
+    <Picture
+      class="h-8 md:h-12"
+      src={vietHuong}
+      alt="Viet Huong Group"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 800px) 100vw, 620px"
+      loading="eager"
+      format="avif"
+    />
+    <Picture
+      class="h-8 md:h-12"
+      src={phuocThanh}
+      alt="Phuoc Thanh"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 800px) 100vw, 620px"
+      loading="eager"
+      format="avif"
+    />
+    <Picture
+      class="h-8 md:h-12"
+      src={cp}
+      alt="CP Group"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 800px) 100vw, 620px"
+      loading="eager"
+      format="avif"
+    />
+  </div>
+</div>

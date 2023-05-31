@@ -1,0 +1,42 @@
+{
+  "site": {
+    "title": "Trung Nam Sơn",
+    "base_url": "https://trungnamson.thuanowa.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "200",
+    "logo_height": "70",
+    "logo_text": "Astroplate"
+  },
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 10,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Liên Hệ",
+    "link": "/contact"
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+  "metadata": {
+    "meta_author": "zeon.studio",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "astro and tailwind boilerplate"
+  }
+}

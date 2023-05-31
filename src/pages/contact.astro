@@ -1,0 +1,40 @@
+---
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { getEntryBySlug } from "astro:content";
+
+const entry = await getEntryBySlug("pages", "contact");
+const { title, description, meta_title, image } = entry.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section-sm">
+    <h2 class="text-center">Thông tin liên hệ</h2>
+    <div
+      class="border-t border-border py-7 dark:border-darkmode-border text-2xl"
+    >
+      <div class="container">
+        <p>CÔNG TY TNHH XÂY DỰNG TRUNG NAM SƠN</p>
+        <p>Địa chỉ: 756A Âu Cơ, Phường 14, Quận Tân Bình, TP. Hồ Chí Minh</p>
+        <p>
+          Email: <a class="underline" href="mailto:xdtns2011@gmail.com"
+            >xdtns2011@gmail.com</a
+          > hoặc
+          <a class="underline" href="mailto:sontran0304@yahoo.com.vn"
+            >sontran0304@yahoo.com.vn</a
+          >
+        </p>
+        <p>Website: <a href="trungnamson.com.vn">trungnamson.com.vn</a></p>
+        <p>Điện thoại: <a href="tel:02862728119">028 6272 8119</a></p>
+        <p class="text-red-600">
+          Hotline: <a href="tel:0903624254">0903 624 254</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</Base>
