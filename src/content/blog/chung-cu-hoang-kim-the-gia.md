@@ -14,7 +14,7 @@ Chung Cư HOÀN KIM THẾ GIA / 黃金世家公寓
 
 ĐC: 31 Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân TPHCM
 
-地址：胡志明市，平新郡，平治東坊，張福潘路，31號
+地址：胡志明市，平新郡，平治東坊，張福潘路，31 號
 
 Quy mô : 45.000 m2 ( 2 tầng hầm và 22 tầng lầu )
 

@@ -10,7 +10,7 @@ tags: ["job"]
 draft: false
 ---
 
-Số lượng: 1 người. 
+Số lượng: 1 người.
 
 Mức lương: 9.000.000 VND - 18.000.000 VND
 
@@ -34,9 +34,9 @@ Yêu cầu.
 
 - Tốt nghiệp Cao đẳng trở lên, các chuyên ngành Bảo hộ lao động hoặc ngành Môi trường, Xây dựng, Điện, Cơ khí (định hướng làm Giám sát an toàn lao động lâu dài).
 
- - Sức khỏe tốt.
+- Sức khỏe tốt.
 
- - Tối thiểu 01 năm kinh nghiệm ở vị trí tương đương.
+- Tối thiểu 01 năm kinh nghiệm ở vị trí tương đương.
 
 2. Kỹ năng
 
@@ -45,27 +45,31 @@ Yêu cầu.
 - Có khả năng tổng hợp, phân tích, xử lý tình huống tốt.
 
 3. Ngoại hình:
+
 - Nam giới có sức khỏe tốt,  sẵn sàng đảm nhận công việc tại các quận huyện lân cận TP HCM, Đồng Nai, Bình Dương.
 
 4. Tính cách:
+
 - Trung thực, đạo đức nghề nghiệp tốt.
 - Cẩn thận, tỉ mỉ và có trách nhiệm cao.
-- Nhiệt tình, có định hướng làm việc lâu dài, ổn định. 
+- Nhiệt tình, có định hướng làm việc lâu dài, ổn định.
 
 Quyền lợi:
+
 - Được hưởng mức lương cạnh tranh, phụ cấp.
 - Được đóng BHXH, BHYT.
 - Được làm việc trong một môi trường năng động, chuyên nghiệp
 
 Hồ sơ bao gồm:
-+ Đơn xin việc;
-+ Sơ yếu lý lịch có xác nhận của địa phương
-+ Bản sao văn bằng, chứng chỉ
-+ Giấy khám sức khỏe của cơ quan y tế cấp huyện trở lên.
-+ Cách thức nộp hồ sơ:
-Gửi hồ sơ gửi vào địa chỉ Email: xdtns2011@gmail.com
+
+- Đơn xin việc;
+- Sơ yếu lý lịch có xác nhận của địa phương
+- Bản sao văn bằng, chứng chỉ
+- Giấy khám sức khỏe của cơ quan y tế cấp huyện trở lên.
+- Cách thức nộp hồ sơ:
+  Gửi hồ sơ gửi vào địa chỉ Email: xdtns2011@gmail.com
 
 * Lưu ý: Ứng viên nộp hồ sơ bộ phận nhân sự xem xét đạt yêu cầu và đi làm ngay. 
-Đia chỉ văn phòng: 618/7G– Âu Cơ – Phường 10 – Tân Bình  
+  Đia chỉ văn phòng: 618/7G– Âu Cơ – Phường 10 – Tân Bình
 
 Điện thoại liên hệ: 028 627 28119

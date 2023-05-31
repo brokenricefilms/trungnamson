@@ -14,7 +14,7 @@ Nhà Xưởng Chế Biến Thức Ăn Chăn Nuôi CP Bình Định
 
 ĐC : KCN Nhơn Hòa, Huyện Nhơn Hòa,Tỉnh Bình Định
 
-平定省 – CP畜牧飼料製造廠
+平定省 – CP 畜牧飼料製造廠
 
 地址：平定省，仁和縣，仁和工業區
 

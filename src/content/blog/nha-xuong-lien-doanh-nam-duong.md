@@ -16,6 +16,6 @@ Nhà Xưởng Liên Doanh Nam Phương
 
 南方聯營廠房
 
-地址：平陽省，邊葛縣，安西鎮，2村，越香2工業區
+地址：平陽省，邊葛縣，安西鎮，2 村，越香 2 工業區
 
 ![image](/images/nha-xuong-lien-doanh-nam-duong.jpg)

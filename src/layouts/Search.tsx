@@ -46,7 +46,7 @@ const Search = ({ searchList }: Props) => {
     const searchStr = searchUrl.get("q");
     if (searchStr) setInputVal(searchStr);
 
-    setTimeout(function() {
+    setTimeout(function () {
       inputRef.current!.selectionStart = inputRef.current!.selectionEnd =
         searchStr?.length || 0;
     }, 50);
@@ -109,7 +109,9 @@ const Search = ({ searchList }: Props) => {
                 alt="no-search-found"
               />
               <h1 className="h2 mb-4">
-                {inputVal.length < 1 ? "Tìm kiếm thông tin" : "No Search Found!"}
+                {inputVal.length < 1
+                  ? "Tìm kiếm thông tin"
+                  : "No Search Found!"}
               </h1>
               <p>
                 {inputVal.length < 1
