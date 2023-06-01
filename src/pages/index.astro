@@ -19,6 +19,16 @@ interface Homepage {
 const homepage = await getEntryBySlug("homepage", "index");
 const testimonial = await getEntryBySlug("sections", "testimonial");
 const { banner, features }: Homepage = homepage.data;
+
+import taxonomyFilter from "@/lib/utils/taxonomyFilter";
+
+import BlogCard from "@/components/BlogCard.astro";
+import config from "@/config/config.json";
+import { getSinglePage } from "@/lib/contentParser.astro";
+
+const category = "project";
+const posts = await getSinglePage(config.settings.blog_folder);
+const filterByCategories = taxonomyFilter(posts, "categories", category!);
 ---
 
 <Base>
@@ -94,6 +104,21 @@ const { banner, features }: Homepage = homepage.data;
     ))
   }
   <!-- /Features -->
+
+  <div class="section-sm pb-0">
+    <h2 class="text-center mb-5">Dự Án</h2>
+    <div class="container">
+      <div class="row">
+        {
+          filterByCategories.map((post) => (
+            <div class="mb-14 md:col-6 lg:col-4">
+              <BlogCard data={post} />
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
 
   <Testimonial testimonial={testimonial} />
 </Base>
