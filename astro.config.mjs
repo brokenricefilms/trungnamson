@@ -12,7 +12,7 @@ import compress from "astro-compress";
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "http://trungnamson.thuanowa.com",
+  site: config.site.base_url ? config.site.base_url : "http://trungnamson.construction",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   integrations: [
