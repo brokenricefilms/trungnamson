@@ -1,9 +1,9 @@
 {
-  "name": "astroplate",
+  "name": "trungnamson",
   "version": "1.2.4",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
-  "license": "MIT",
+  "description": "Công ty TNHH xây dựng Trung Nam Sơn",
+  "author": "thuanowa",
+  "license": "unlicense",
   "packageManager": "yarn@1.22.19",
   "scripts": {
     "dev": "astro dev",

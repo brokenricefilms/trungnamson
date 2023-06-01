@@ -1,3 +1,8 @@
 # trungnamson
 
-trungnamson.construction
+<https://trungnamson.construction>
+
+```dev
+pnpm install
+pnpm dev
+```
