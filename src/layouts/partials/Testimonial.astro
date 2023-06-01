@@ -3,7 +3,8 @@ import { Picture } from "@astrojs/image/components";
 import takco from "public/images/takco.png";
 import vietHuong from "public/images/viet-huong.png";
 import phuocThanh from "public/images/phuoc-thanh.png";
-import cp from "public/images/cp.webp";
+import cp from "public/images/cp.png";
+import phuGia from "public/images/phu-gia.png";
 ---
 
 <div class="mt-24 mb-24">
@@ -40,6 +41,15 @@ import cp from "public/images/cp.webp";
       class="h-8 md:h-12"
       src={cp}
       alt="CP Group"
+      widths={[200, 400, 600]}
+      sizes="(max-width: 800px) 100vw, 620px"
+      loading="eager"
+      format="avif"
+    />
+    <Picture
+      class="h-8 md:h-6"
+      src={phuGia}
+      alt="An Phu Gia"
       widths={[200, 400, 600]}
       sizes="(max-width: 800px) 100vw, 620px"
       loading="eager"
