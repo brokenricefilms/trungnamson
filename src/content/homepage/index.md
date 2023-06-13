@@ -19,7 +19,7 @@ features:
       - "Trong thời gian qua, công ty không ngừng nỗ lực phát triển, nâng cao trình độ kỹ thuật, nghiệp vụ để bắt kịp với nhịp độ phát triển của xã hội. Công ty luôn chú trọng đến việc phát triển nguồn nhân lực với trình độ cao, cũng như đầu tư trang thiết bị hiện đại phục vụ trong công việc. 近年來，本公司不斷努力發展、提升技術資格、專業性以趕上社會發展步伐。本公司一向注重發展高程度人力資源，而且投資現代化設備以服務工作。"
       - "Với kinh nghiệm và năng lực của mình, Trung Nam Sơn  mang đến cho quý khách hàng trong nước và chủ đầu tư nước ngoài sự đảm bảo về chất lượng công trình, tiến độ thi công cũng như tính thẩm mỹ trong từng công trình, chắc chắn sẽ làm hài lòng quý khách ./. 憑自有經驗及資質，中南山公司保證給國內客戶及國外業主帶來優良工程品質、施工進度及每工程的審美觀，保證貴客滿意"
     button:
-      enable: true
+      enable: false
       label: "Tìm hiểu thêm"
       link: "/about"
 ---
