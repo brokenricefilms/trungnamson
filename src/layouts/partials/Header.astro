@@ -21,11 +21,7 @@ const { navigation_button, settings } = config;
 const { pathname } = Astro.url;
 ---
 
-<header
-  class={`header z-30 ${
-    settings.sticky_header && "sticky top-0"
-  }  bg-yellow-500`}
->
+<header class={`header z-30 bg-opacity-75`}>
   <nav class="navbar container">
     <!-- logo -->
     <div class="order-0">
@@ -58,7 +54,7 @@ const { pathname } = Astro.url;
     <!-- /navbar toggler -->
     <ul
       id="nav-menu"
-      class="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
+      class="text-xl bg-yellow-500 rounded-lg navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
     >
       {
         main.map((menu) => (
@@ -130,7 +126,7 @@ const { pathname } = Astro.url;
       {
         settings.search && (
           <a
-            class="mr-5 inline-block border-r border-border pr-5 text-xl text-dark hover:text-primary dark:border-darkmode-border dark:text-white"
+            class="mr-5 inline-block  border-border pr-5 text-xl text-dark hover:text-primary dark:border-darkmode-border dark:text-white"
             href="/search"
             aria-label="search"
           >
@@ -138,16 +134,9 @@ const { pathname } = Astro.url;
           </a>
         )
       }
-      {
-        navigation_button.enable && (
-          <a
-            class="btn btn-outline-primary btn-sm hidden lg:inline-block"
-            href={navigation_button.link}
-          >
-            {navigation_button.label}
-          </a>
-        )
-      }
     </div>
+  </nav>
+</header>
+
   </nav>
 </header>

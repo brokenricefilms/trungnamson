@@ -1,25 +1,11 @@
 {
   "main": [
     {
-      "name": "Giới Thiệu",
-      "url": "/about"
+      "name": "Trang chủ",
+      "url": "/"
     },
     {
-      "name": "Dự án",
-      "url": "/categories/project"
-    },
-    {
-      "name": "Tuyển dụng",
-      "url": "/categories/job"
-    },
-    {
-      "name": "Tin Tức",
-      "url": "/blog"
-    }
-  ],
-  "footer": [
-    {
-      "name": "Giới Thiệu",
+      "name": "Giới thiệu",
       "url": "/about"
     },
     {
@@ -33,6 +19,36 @@
     {
       "name": "Tin tức",
       "url": "/blog"
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Trang chủ",
+      "url": "/"
+    },
+    {
+      "name": "Giới thiệu",
+      "url": "/about"
+    },
+    {
+      "name": "Dự án",
+      "url": "/categories/project"
+    },
+    {
+      "name": "Tuyển dụng",
+      "url": "/categories/job"
+    },
+    {
+      "name": "Tin tức",
+      "url": "/blog"
+    },
+    {
+      "name": "Liên hệ",
+      "url": "/contact"
     }
   ]
 }
