@@ -25,7 +25,7 @@
     "copyright": "uncopyright"
   },
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Liên Hệ",
     "link": "/contact"
   },

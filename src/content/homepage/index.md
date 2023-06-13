@@ -5,7 +5,7 @@ banner:
   content: "Trung Nam Sơn là Nhà Thầu đáng tin cậy cho tất cả các công trình với đội ngũ cán bộ, nhân viên kỹ thuật có trình độ tay nghề cao, năng động và đầy sáng tạo. 中南山公司為所有工程可靠承包商，其中具有高程度、靈活並充滿創意之專業幹部及技術人員隊伍。"
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Liên hệ"
     link: "/contact"
 
