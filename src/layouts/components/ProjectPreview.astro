@@ -1,0 +1,100 @@
+---
+import { markdownify } from "@/lib/utils/textConverter";
+
+interface Homepage {
+  banner: {
+    title: string;
+    content: string;
+    image: string;
+    button: Button;
+  };
+  features: Feature[];
+}
+
+import { getEntryBySlug } from "astro:content";
+const homepage = await getEntryBySlug("homepage", "index");
+const { banner, features }: Homepage = homepage.data;
+---
+
+<div class="slider">
+  <div class="slide"></div>
+  <div class="slide"></div>
+  <div class="slide"></div>
+  <div class="slide"></div>
+  <div class="slide"></div>
+  <div class="slide"></div>
+</div>
+
+<div class="flex justify-center bottom-40 relative">
+  <div class="mb-16 text-center lg:col-8 bg-yellow-700 opacity-90 rounded-xl">
+    <h1 set:html={markdownify(banner.title)} class="mb-4 text-yellow-500" />
+    <p set:html={markdownify(banner.content)} class="m-8 text-white" />
+  </div>
+</div>
+
+<style>
+  .slider {
+    overflow: hidden;
+    width: 100vw;
+    height: 90vh;
+    position: relative;
+  }
+
+  .slider .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    animation: slider 15s infinite;
+  }
+
+  .slider .slide:nth-child(1) {
+    background-image: url("images/banner.png");
+    animation-delay: 0s;
+  }
+
+  .slider .slide:nth-child(2) {
+    background-image: url("images/hutech.jpg");
+    animation-delay: -2.5s;
+  }
+
+  .slider .slide:nth-child(3) {
+    background-image: url("images/phu-my.jpg");
+    animation-delay: -5s;
+  }
+
+  .slider .slide:nth-child(4) {
+    background-image: url("images/nha-xuong-lien-doanh-nam-duong.jpg");
+    animation-delay: -7.5s;
+  }
+
+  .slider .slide:nth-child(5) {
+    background-image: url("images/det-may-hoa-sen-3.jpg");
+    animation-delay: -10s;
+  }
+
+  .slider .slide:nth-child(6) {
+    background-image: url("images/cp-ben-tre.jpg");
+    animation-delay: -12.5s;
+  }
+
+  @keyframes slider {
+    0%,
+    16%,
+    100% {
+      transform: translateX(0);
+      animation-timing-function: ease;
+    }
+    20% {
+      transform: translateX(-100%);
+      animation-timing-function: step-end;
+    }
+    96% {
+      transform: translateX(100%);
+      animation-timing-function: ease;
+    }
+  }
+</style>
