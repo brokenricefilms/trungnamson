@@ -36,35 +36,35 @@ import ProjectPreview from "@/components/ProjectPreview.astro";
 <Base>
   <!-- Banner -->
   <ProjectPreview />
-  <section class="section pt-14">
-    <div class="container">
-      <div class="row justify-center">
-        <div class="mb-16 text-center lg:col-8">
-          <h1 set:html={markdownify(banner.title)} class="mb-4" />
-          <p set:html={markdownify(banner.content)} class="mb-8" />
-          {
-            banner.button.enable && (
-              <a class="btn btn-primary" href={banner.button.link}>
-                {banner.button.label}
-              </a>
-            )
-          }
-        </div>
-        {
-          banner.image && (
-            <div class="col-12">
-              <img
-                src={banner.image}
-                width="1600"
-                height="1200"
-                alt="banner image"
-              />
-            </div>
-          )
-        }
-      </div>
-    </div>
-  </section>
+  <!-- <section class="section pt-14"> -->
+  <!--   <div class="container"> -->
+  <!--     <div class="row justify-center"> -->
+  <!--       <div class="mb-16 text-center lg:col-8"> -->
+  <!--         <h1 set:html={markdownify(banner.title)} class="mb-4" /> -->
+  <!--         <p set:html={markdownify(banner.content)} class="mb-8" /> -->
+  <!--         { -->
+  <!--           banner.button.enable && ( -->
+  <!--             <a class="btn btn-primary" href={banner.button.link}> -->
+  <!--               {banner.button.label} -->
+  <!--             </a> -->
+  <!--           ) -->
+  <!--         } -->
+  <!--       </div> -->
+  <!--       { -->
+  <!--         banner.image && ( -->
+  <!--           <div class="col-12"> -->
+  <!--             <img -->
+  <!--               src={banner.image} -->
+  <!--               width="1600" -->
+  <!--               height="1200" -->
+  <!--               alt="banner image" -->
+  <!--             /> -->
+  <!--           </div> -->
+  <!--         ) -->
+  <!--       } -->
+  <!--     </div> -->
+  <!--   </div> -->
+  <!-- </section> -->
   <!-- /Banner -->
 
   <!-- Features -->
