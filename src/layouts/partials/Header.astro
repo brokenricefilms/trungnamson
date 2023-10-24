@@ -32,7 +32,7 @@ const { pathname } = Astro.url;
     <label
       id="show-button"
       for="nav-toggle"
-      class="order-3 flex cursor-pointer items-center text-dark dark:text-white lg:order-1 lg:hidden"
+      class="order-3 flex cursor-pointer items-center text-dark lg:order-1 dark:text-white lg:hidden"
     >
       <svg class="h-6 fill-current" viewBox="0 0 20 20">
         <title>Menu Open</title>
@@ -42,7 +42,7 @@ const { pathname } = Astro.url;
     <label
       id="hide-button"
       for="nav-toggle"
-      class="order-3 hidden cursor-pointer items-center text-dark dark:text-white lg:order-1"
+      class="order-3 hidden cursor-pointer items-center text-dark lg:order-1 dark:text-white"
     >
       <svg class="h-6 fill-current" viewBox="0 0 20 20">
         <title>Menu Close</title>
@@ -54,7 +54,7 @@ const { pathname } = Astro.url;
     <!-- /navbar toggler -->
     <ul
       id="nav-menu"
-      class="text-xl bg-yellow-500 rounded-lg navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
+      class="navbar-nav order-3 hidden w-full rounded-lg bg-yellow-500 pb-6 text-xl lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
     >
       {
         main.map((menu) => (
