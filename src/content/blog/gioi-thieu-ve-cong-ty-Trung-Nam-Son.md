@@ -47,7 +47,7 @@ Năm 2011-2019, Công Ty TNHH XD Trung Nam Sơn đã thi công qua các công tr
 - Công trình : Xây Dựng Viện Công Nghệ Cao Hutech – Khu công nghệ cao Hồ Chí Minh. 胡志明市高科技園區——HUTECH 高科技園新建。
 - Công trình : Xây Dựng Khu Liên Hợp Thể Dục Thể Thao và Khu Dân Cư Tân Thắng. 新勝民居區及體育聯合區新建。
 - Công trình : Xây Dựng Khu Dân Cư – Thương Mại Phước Thái – Tam Phước – Đồng Nai. 同奈省，三福縣，福彩商務，民居區新建。
-- Công trình : Xây Dựng Trung Tâm Thương Mại Dịch Vụ và Căn Hộ Cao Cấp Sunshine Apartmen. Sunshine Apartmen 高級公寓及商務中心新建。
+- Công trình : Xây Dựng Trung Tâm Thương Mại Dịch Vụ và Căn Hộ Cao Cấp Sunshine Apartment. Sunshine Apartment 高級公寓及商務中心新建。
 - Công trình : Xây Dựng Nhà xưởng Kitty Textil (VN) Limited Company – KCN Việt Hương II – Bình Dương. 平陽省，第二越香工業區，Kitty Textil (VN) Limited Company 造廠新建
 - Công trình : Xây Dựng Khối nhà Xưởng – Văn Phòng Lô C4-C6 – KCN Việt Hương II – Bình Dương. 平陽省，第二越香工業區，C4—C6 區辦公室，造廠新建。
 - Công trình : Xây Dựng Khối Nhà Xưởng – Văn Phòng Lô A3 - KCN Việt Hương II – Bình Dương. 平陽省，第二越香工業區，A3 區辦公室，造廠新建。
