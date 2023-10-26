@@ -1,5 +1,5 @@
 ---
-title: "Chung cư Phú Mỹ"
+title: "Chung Cư Khu Nhà Ở Phú Mỹ Quận 7"
 meta_title: "Chung cư Phú Mỹ"
 description: "Chung cư Phú Mỹ"
 date: 2023-04-04T05:00:00Z
@@ -9,8 +9,6 @@ author: ""
 tags: ["project"]
 draft: false
 ---
-
-Chung Cư Khu Nhà Ở Phú Mỹ Quận 7
 
 ĐC: Đường Phạm Hữu Lầu, Phường Phú Mỹ Quận 7 TPHCM
 

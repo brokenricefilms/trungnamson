@@ -1,5 +1,5 @@
 ---
-title: "Dệt may Hoa Sen"
+title: "Nhà Xưởng CÔNG TY TNHH DỆT MAY HOA SEN"
 meta_title: "Dệt may Hoa Sen"
 description: "Dệt may Hoa Sen"
 date: 2023-04-04T05:00:00Z
@@ -9,8 +9,6 @@ author: ""
 tags: ["project"]
 draft: false
 ---
-
-Nhà Xưởng CÔNG TY TNHH DỆT MAY HOA SEN
 
 ĐC : KCN Trảng Bàng, Huyện Trảng Bàng, Tỉnh Tây Ninh
 

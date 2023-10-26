@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Công trình NHÀ XƯỞNG CHẾ BIẾN TÔM ĐÔNG LẠNH CP HUẾ
-
 ĐC: KCN Phong Điền, Huyện Phong Điền,Tỉnh Thừa Thiên Huế
 
 順化 CP 凍冷蝦製造廠

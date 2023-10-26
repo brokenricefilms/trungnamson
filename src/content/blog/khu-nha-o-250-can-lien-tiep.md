@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Khu Nhà Ở 250 Căn Liên Kế
-
 ĐC: Khu Kinh Tế Nghi Sơn - Thanh Hóa
 
 清化省 – 宜山經濟區 – 250 單位連續住宅區

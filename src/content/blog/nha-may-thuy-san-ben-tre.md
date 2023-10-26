@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Nhà Máy SX Thức Ăn Thủy Sản Bến Tre
-
 ĐC: KCN An Hiệp, Huyện Châu Thành, Tỉnh Bến Tre
 
 檳椥省 – CP 海鮮飼料製造廠

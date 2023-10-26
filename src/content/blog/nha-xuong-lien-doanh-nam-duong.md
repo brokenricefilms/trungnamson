@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Nhà Xưởng Liên Doanh Nam Phương
-
 ĐC : KCN Việt Hương 2, Ấp 2, Xã An Tây, Huyện Bến Cát, Tỉnh Bình Dương
 
 南方聯營廠房

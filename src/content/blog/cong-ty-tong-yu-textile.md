@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Công Ty TNHH TONG YU TEXTILE ( VIỆT NAM )
-
 ĐC : KCN Việt Hương 2, Ấp 2, Xã An Tây, Huyện Bến Cát, Tỉnh Bình Dương
 
 越南 TONG YU 紡織有限公司

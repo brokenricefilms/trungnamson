@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Nhà Xưởng CHUN XIANG
-
 ĐC : KCN Việt Hương 2, Ấp 2, Xã An Tây, Huyện Bến Cát, Tỉnh Bình Dương
 
 CHUN XIANG 廠房

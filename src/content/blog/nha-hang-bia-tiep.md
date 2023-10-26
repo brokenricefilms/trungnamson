@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Nhà Hàng Bia Tiệp
-
 ĐC : 189 – Hoàng Văn Thụ - Phường 9 – Quận Phú Nhuận – TP Hồ Chí Minh
 
 捷克啤酒餐廳

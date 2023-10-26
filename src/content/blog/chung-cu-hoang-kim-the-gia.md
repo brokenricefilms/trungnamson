@@ -1,5 +1,5 @@
 ---
-title: "Chung cư HOÀNG KIM THẾ GIA"
+title: "Chung Cư HOÀN KIM THẾ GIA / 黃金世家公寓"
 meta_title: "Chung cư HOÀNG KIM THẾ GIA"
 description: "Chung cư HOÀNG KIM THẾ GIA"
 date: 2023-04-04T05:00:00Z
@@ -9,8 +9,6 @@ author: ""
 tags: ["project"]
 draft: false
 ---
-
-Chung Cư HOÀN KIM THẾ GIA / 黃金世家公寓
 
 ĐC: 31 Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân TPHCM
 

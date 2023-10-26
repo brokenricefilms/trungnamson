@@ -1,5 +1,5 @@
 ---
-title: "NHÀ XƯỞNG TEXTILE HÀ NAM"
+title: "NHÀ XƯỞNG Dệt Nhuộm TEXTILE HÀ NAM"
 meta_title: "NHÀ XƯỞNG TEXTILE HÀ NAM"
 description: "NHÀ XƯỞNG TEXTILE HÀ NAM"
 date: 2023-04-04T05:00:00Z
@@ -9,8 +9,6 @@ author: ""
 tags: ["project"]
 draft: false
 ---
-
-Nhà Xưởng Dệt Nhuộm TEXTILE
 
 ĐC: KCN Đồng Văn II – Huyện Duy Tiên – Tỉnh Hà Nam
 

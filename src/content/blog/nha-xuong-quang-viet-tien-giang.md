@@ -10,8 +10,6 @@ tags: ["project"]
 draft: false
 ---
 
-Nhà Xưởng May Quảng Việt
-
 ĐC: KCN Tân Hương, Tiền Giang
 
 前江省 – 廣越成衣廠
